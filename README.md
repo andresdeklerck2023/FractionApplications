@@ -7,7 +7,11 @@ The Fraction Calculator is a simple application that allows users to perform bas
 Deklerck Andres
 
 ## Screenshots
-[Include screenshots of the application here]
+![ConsoleApplication](images/ConsoleApplication.png)
+
+![WPFAppHome](images/WPFAppHome.png)
+
+![WPFAppAddition](images/WPFAppAddition.png)
 
 ## Setup and Usage
 To use the Fraction Calculator, you will need Visual Studio 2022. Simply clone the repository, open the solution in Visual Studio 2022 , and run the application.
