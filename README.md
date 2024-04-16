@@ -29,4 +29,4 @@ To run the unit tests, navigate to the test project in Visual Studio, and run al
 
 ## Future Improvements
 - Improve user interface design for better usability and making it more user-friendly.
-- Add support for mixed numbers and improper fractions.
+- Add support for not fractions numbers. 
