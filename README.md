@@ -7,10 +7,14 @@ The Fraction Calculator is a simple application that allows users to perform bas
 Deklerck Andres
 
 ## Screenshots
+
+This is a screenshot of the console application that shows that the library ( that I created ) works correctly.
 ![ConsoleApplication](images/ConsoleApplication.png)
 
+This is a screenshot of the Home tab of the WPF App.
 ![WPFAppHome](images/WPFAppHome.png)
 
+And this is a screenshot of the addition tab of the WPF App with two example fractions entered.
 ![WPFAppAddition](images/WPFAppAddition.png)
 
 ## Setup and Usage
@@ -21,7 +25,7 @@ Unit tests are included to ensure the correctness of the fraction arithmetic ope
 To run the unit tests, navigate to the test project in Visual Studio, and run all tests.
 
 ## UML Class Diagram of Fraction
-[Include UML class diagram of the Fraction class here]
+![UMLDiagram](images/UMLDiagram.png)
 
 ## Future Improvements
 - Improve user interface design for better usability and making it more user-friendly.
